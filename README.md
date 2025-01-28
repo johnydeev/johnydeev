@@ -36,7 +36,7 @@
 Un e-commerce colaborativo con un enfoque en la escalabilidad, rendimiento y diseño intuitivo.  
 **Tech Stack**:  
 - **Framework**: Next.js  
-- **Estilizado**: TailwindCSS  
+- **Style**: TailwindCSS  
 - **ORM**: Prisma  
 - **Componentes UI**: Emotion, Material UI  
 - **Servicios**: AWS S3, Nodemailer  
@@ -49,24 +49,6 @@ Un e-commerce colaborativo con un enfoque en la escalabilidad, rendimiento y dis
 - **Diplopatura en Desarrollo Web Full Stack** - UTN Facultad Regional Bs. As. *(En curso)*  
 - **Professional Developer** - Digital House *(2023)*  
 - **Técnico Superior en Programación** - UTN Avellaneda *(hasta segundo año)*  
-
----
-
-## 💼 Experiencia Profesional
-
-### 📊 **Analista Funcional**
-- Envío de correos masivos personalizados, ahorrando más de **8 horas** de trabajo.
-- Generación de informes automatizados en PDF, reduciendo el tiempo en **2 jornadas**.
-- Diseño de menús para ejecución de scripts y refactorización de código para mejorar rendimiento y reutilización.
-
-**Administración Morinigo | 2022 - Actualidad**
-
-### 🖥️ **Técnico de PC**
-- Ensamblado y configuración de equipos con S.O.
-- Diagnóstico y resolución de fallas.
-- Creación de presupuestos personalizados según las necesidades del cliente.
-
-**2008 - Actualidad**
 
 ---
 
