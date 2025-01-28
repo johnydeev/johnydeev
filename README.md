@@ -1,6 +1,6 @@
 # 👨‍💻 Jonathan Castro - Desarrollador Full Stack
 
-¡Hola! 👋 Soy **Jonathan Castro**, un desarrollador Full Stack apasionado por aprender y aplicar tecnologías innovadoras. Me considero una persona comunicativa, adaptable y empática, con un fuerte enfoque en la mejora continua y el trabajo en equipo.
+¡Hola! 👋 Soy **Jonathan Castro**, desarrollador Full Stack apasionado por aprender y aplicar tecnologías innovadoras. Me considero una persona comunicativa, adaptable y empática, con un fuerte enfoque en la mejora continua y el trabajo en equipo.
 
 ---
 
