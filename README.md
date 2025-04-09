@@ -70,7 +70,7 @@ Un e-commerce colaborativo con un enfoque en la escalabilidad, rendimiento y dis
 ---
 
 ## 📚 Formación Académica
-- **Diplopatura en Desarrollo Web Full Stack** - UTN Facultad Regional Bs. As. *(Marzo 2025)*  
+- **Diplomatura en Desarrollo Web Full Stack** - UTN Facultad Regional Bs. As. *(Marzo 2025)*  
 - **Professional Developer** - Digital House *(Diciembre 2023)*  
 - **Técnico Superior en Programación** - UTN Avellaneda *(hasta segundo año)*  
 
