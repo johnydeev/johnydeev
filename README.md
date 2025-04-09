@@ -32,6 +32,30 @@
 
 ## 🛠️ Proyectos Destacados
 
+### 🌐 [Proyecto Clon Slack].(https://frontend-pwa-despliegue.vercel.app/)
+**Tech Stack**:  
+# Front
+
+- **Runtime:** [Vite](https://vitejs.dev/) ![Vite](https://img.shields.io/badge/-Vite-purple?style=flat-square&logo=vite&logoColor=white)  
+
+- **Styling:** CSS ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)  
+
+- **UI Components:** [React Icons](https://react-icons.github.io/react-icons/)  ![React Icons](https://img.shields.io/badge/-React%20Icons-blue?style=flat-square&logo=react&logoColor=white)  
+
+- **Notifications:** [Sonner](https://sonner.emilkowal.ski/)  ![Sonner](https://img.shields.io/badge/-Sonner-yellow?style=flat-square&logo=javascript&logoColor=white)
+# Back
+
+- **Runtime:** [Node.js](https://nodejs.org/)  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)  
+
+- **Framework:** [Express](https://expressjs.com/)  ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)  
+
+- **Authentication:** [JSON Web Token (JWT)](https://jwt.io/)  ![JWT](https://img.shields.io/badge/-JWT-blueviolet?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+- **Password Encryption:** [bcrypt](https://github.com/kelektiv/node.bcrypt.js) ![bcrypt](https://img.shields.io/badge/-bcrypt-orange?style=flat-square&logo=keepassdx&logoColor=white)
+
+- **Mailing:** [Nodemailer](https://nodemailer.com/) ![Nodemailer](https://img.shields.io/badge/-Nodemailer-yellow?style=flat-square&logo=mailgun&logoColor=white)
+
+
 ### 🌐 [Infinit-ecommerce](https://infinit-ecommerce.vercel.app/)
 Un e-commerce colaborativo con un enfoque en la escalabilidad, rendimiento y diseño intuitivo.  
 **Tech Stack**:  
@@ -46,8 +70,8 @@ Un e-commerce colaborativo con un enfoque en la escalabilidad, rendimiento y dis
 ---
 
 ## 📚 Formación Académica
-- **Diplopatura en Desarrollo Web Full Stack** - UTN Facultad Regional Bs. As. *(En curso)*  
-- **Professional Developer** - Digital House *(2023)*  
+- **Diplopatura en Desarrollo Web Full Stack** - UTN Facultad Regional Bs. As. *(Marzo 2025)*  
+- **Professional Developer** - Digital House *(Diciembre 2023)*  
 - **Técnico Superior en Programación** - UTN Avellaneda *(hasta segundo año)*  
 
 ---
