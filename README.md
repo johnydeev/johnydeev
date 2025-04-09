@@ -55,7 +55,7 @@
 
 - **Mailing:** [Nodemailer](https://nodemailer.com/) ![Nodemailer](https://img.shields.io/badge/-Nodemailer-yellow?style=flat-square&logo=mailgun&logoColor=white)
 
-
+---
 ### 🌐 [Infinit-ecommerce](https://infinit-ecommerce.vercel.app/)
 Un e-commerce colaborativo con un enfoque en la escalabilidad, rendimiento y diseño intuitivo.  
 **Tech Stack**:  
