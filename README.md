@@ -32,9 +32,9 @@
 
 ## 🛠️ Proyectos Destacados
 
-### 🌐 [Proyecto Clon Slack].(https://frontend-pwa-despliegue.vercel.app/)
+### 🌐 [Proyecto Clon Slack](https://frontend-pwa-despliegue.vercel.app/)
 **Tech Stack**:  
-# Front
+### Front
 
 - **Runtime:** [Vite](https://vitejs.dev/) ![Vite](https://img.shields.io/badge/-Vite-purple?style=flat-square&logo=vite&logoColor=white)  
 
@@ -43,7 +43,7 @@
 - **UI Components:** [React Icons](https://react-icons.github.io/react-icons/)  ![React Icons](https://img.shields.io/badge/-React%20Icons-blue?style=flat-square&logo=react&logoColor=white)  
 
 - **Notifications:** [Sonner](https://sonner.emilkowal.ski/)  ![Sonner](https://img.shields.io/badge/-Sonner-yellow?style=flat-square&logo=javascript&logoColor=white)
-# Back
+### Back
 
 - **Runtime:** [Node.js](https://nodejs.org/)  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)  
 
