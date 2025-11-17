@@ -1,6 +1,10 @@
 # 👨‍💻 Jonathan Castro - Full Stack Developer
+¡Hola! 👋 Mi nombre es Jonathan y podés encontrarme en redes como johnydeev.
+Soy Desarrollador Full Stack, apasionado por aprender, construir y aplicar tecnologías modernas que den como resultado soluciones escalables. Trabajé como diseñador de calzado y también gestioné mi propio negocio de carnicería. Estas experiencias fortalecieron mi capacidad de adaptación, la resolución de problemas y el trato con personas de distintos entornos.
 
-¡Hola! 👋 mi nombre es Jonathan y podes encontrarme en las redes como **johnydeev**, aparte de ser un apasionado empedernido por aprender y aplicar tecnologías innovadoras soy diseñador de calzado y fui carnicero en mi propio negocio alimenticio (Si nada que ver pero al final el 💔 siempre me pidio codigo hasta que un dia lo escuche 💖). Me considero una persona comunicativa, adaptable y empática, con un fuerte enfoque en la mejora continua y el trabajo en equipo. Sin mas preambulos te invito a que explores mas de mis logros y potencal
+Hoy mi enfoque está completamente puesto en el desarrollo de software. Soy una persona comunicativa y altamente adaptable, con un fuerte compromiso con la mejora continua y el trabajo en equipo.
+
+Te invito a explorar mis proyectos y el trabajo que vengo construyendo — siempre me encuentro evolucionando y llevando mi potencial un paso más allá.
 
 ---
 
