@@ -1,99 +1,127 @@
-# 👨‍💻 Jonathan Castro - Full Stack Developer
-¡Hola! 👋 Mi nombre es Jonathan y podés encontrarme en redes como johnydeev.
-Soy Desarrollador Full Stack, apasionado por aprender, construir y aplicar tecnologías modernas que den como resultado soluciones escalables. Trabajé como diseñador de calzado y también gestioné mi propio negocio de carnicería. Estas experiencias fortalecieron mi capacidad de adaptación, la resolución de problemas y el trato con personas de distintos entornos.
+# 👨‍💻 Jonathan Castro | Full Stack Developer · IA Automation
 
-Hoy mi enfoque está completamente puesto en el desarrollo de software. Soy una persona comunicativa y altamente adaptable, con un fuerte compromiso con la mejora continua y el trabajo en equipo.
+Full Stack Developer enfocado en construir productos escalables y automatizaciones inteligentes.
 
-Te invito a explorar mis proyectos y el trabajo que vengo construyendo — siempre me encuentro evolucionando y llevando mi potencial un paso más allá.
+Diseño y desarrollo aplicaciones end-to-end con especial atención en:
+- Arquitectura limpia y mantenible
+- APIs robustas y tipadas
+- Integración con servicios externos
+- Automatización con Inteligencia Artificial
+
+📍 Argentina  
+💡 Building scalable systems and intelligent automations.
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+## 🚀 Enfoque Profesional
 
-### Front-End
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+Actualmente combino desarrollo Full Stack con automatización basada en IA para optimizar procesos de negocio.
+
+Trabajo bajo principios de:
+- Separación por capas (Controller · Service · Repository)
+- Tipado fuerte con TypeScript
+- Manejo centralizado de errores
+- Código reutilizable y escalable
+- Pensado para producción, no solo para demo
+
+Me interesa especialmente:
+- Automatización documental
+- Integraciones con APIs externas
+- Procesamiento de datos
+- Optimización de flujos operativos
+
+---
+
+## 🧠 Stack Principal
+
+### Frontend
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-teal?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Back-End
+### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-gray?style=flat-square&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
-
-### Bases de Datos
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
 
-### Herramientas de Desarrollo
+### IA & Automatización
+- OCR con Tesseract
+- Integración con APIs de IA (LLMs)
+- Google Drive API
+- Google Sheets API
+- Automatización de flujos documentales
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=trello&logoColor=white)
-![UML](https://img.shields.io/badge/-UML-yellow?style=flat-square)
 
 ---
 
 ## 🛠️ Proyectos Destacados
 
-### 🌐 [Proyecto Clon Slack](https://frontend-pwa-despliegue.vercel.app/)
-**Tech Stack**:  
-### Front
+### 🤖 Automatización Inteligente de Facturas
 
-- **Runtime:** [Vite](https://vitejs.dev/) ![Vite](https://img.shields.io/badge/-Vite-purple?style=flat-square&logo=vite&logoColor=white)  
+Sistema que:
 
-- **Styling:** CSS ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)  
+- Detecta documentos en Google Drive
+- Aplica OCR para extraer texto
+- Utiliza IA para estructurar datos relevantes
+- Exporta automáticamente la información a Google Sheets
+- Reduce errores como pagos duplicados o facturas traspapeladas
 
-- **UI Components:** [React Icons](https://react-icons.github.io/react-icons/)  ![React Icons](https://img.shields.io/badge/-React%20Icons-blue?style=flat-square&logo=react&logoColor=white)  
-
-- **Notifications:** [Sonner](https://sonner.emilkowal.ski/)  ![Sonner](https://img.shields.io/badge/-Sonner-yellow?style=flat-square&logo=javascript&logoColor=white)
-### Back
-
-- **Runtime:** [Node.js](https://nodejs.org/)  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)  
-
-- **Framework:** [Express](https://expressjs.com/)  ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)  
-
-- **Authentication:** [JSON Web Token (JWT)](https://jwt.io/)  ![JWT](https://img.shields.io/badge/-JWT-blueviolet?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-- **Password Encryption:** [bcrypt](https://github.com/kelektiv/node.bcrypt.js) ![bcrypt](https://img.shields.io/badge/-bcrypt-orange?style=flat-square&logo=keepassdx&logoColor=white)
-
-- **Mailing:** [Nodemailer](https://nodemailer.com/) ![Nodemailer](https://img.shields.io/badge/-Nodemailer-yellow?style=flat-square&logo=mailgun&logoColor=white)
-
----
-### 🌐 [Infinit-ecommerce](https://infinit-ecommerce.vercel.app/)
-Un e-commerce colaborativo con un enfoque en la escalabilidad, rendimiento y diseño intuitivo.  
-**Tech Stack**:  
-- **Framework**: Next.js  
-- **Style**: TailwindCSS  
-- **ORM**: Prisma  
-- **Componentes UI**: Emotion, Material UI  
-- **Servicios**: AWS S3, Nodemailer  
-
-**Rol**: Back-End, Tester y Administrador de Infraestructura.
+Enfoque: automatización real de procesos administrativos.
 
 ---
 
-## 📚 Formación Académica
-- **Diplomatura en Desarrollo Web Full Stack** - UTN Facultad Regional Bs. As. *(Marzo 2025)*  
-- **Professional Developer** - Digital House *(Diciembre 2023)*  
-- **Técnico Superior en Programación** - UTN Avellaneda *(hasta segundo año)*  
+### 🛒 E-commerce Escalable (Arquitectura Modular)
+
+Plataforma full stack diseñada bajo arquitectura MVC con separación clara por capas.
+
+- Backend en Node.js + TypeScript
+- Prisma ORM + PostgreSQL
+- Integración con Mercado Pago
+- Manejo de variantes de producto
+- Diseño preparado para escalar
+- Estructura lista para SaaS
 
 ---
 
-## 🌟 Sobre mí
-- Me apasiona aprender nuevas tecnologías y mejorar mis habilidades para enfrentar nuevos desafíos.
-- Disfruto trabajar en equipo y contribuir al éxito colectivo.
-- Actualmente, mi objetivo es seguir creciendo en el ámbito tecnológico.
+### 💬 Slack Clone (Full Stack)
+
+Aplicación de comunicacion en tiempo real:
+
+- Autenticación JWT
+- Encriptación con bcrypt
+- Sistema de notificaciones
+- Arquitectura cliente-servidor desacoplada
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🎓 Formación
+
+- Diplomatura en Desarrollo Web Full Stack – UTN (2025)
+- Professional Developer – Digital House (2023)
+- Técnico Superior en Programación – UTN Avellaneda (hasta 2° año)
+
+---
+
+## 📈 Actualmente
+
+- Profundizando en arquitectura escalable
+- Mejorando automatizaciones con IA
+- Aplicando Docker en entornos reales
+- Construyendo soluciones orientadas a negocio
+
+---
+
+## 🌐 Conectemos
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Web-blue?style=flat-square&logo=vercel&logoColor=white)](https://castro-jonathan-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan_Castro-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnydeev/)
 [![GitHub](https://img.shields.io/badge/GitHub-johnydeev-black?style=flat-square&logo=github&logoColor=white)](https://github.com/johnydeev)
 
----
-
-## 📞 Contacto
-- **Email**: [castrojonathand@gmail.com](mailto:castrojonathand@gmail.com)
-- **Teléfono**: +54 11 5822-0342
+📧 castrojonathand@gmail.com
