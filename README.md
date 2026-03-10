@@ -48,13 +48,6 @@ Me interesa especialmente:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
 
-### IA & Automatización
-- OCR con Tesseract
-- Integración con APIs de IA (LLMs)
-- Google Drive API
-- Google Sheets API
-- Automatización de flujos documentales
-
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
