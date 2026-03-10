@@ -115,6 +115,5 @@ Aplicación de comunicacion en tiempo real:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Web-blue?style=flat-square&logo=vercel&logoColor=white)](https://castro-jonathan-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan_Castro-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnydeev/)
-[![GitHub](https://img.shields.io/badge/GitHub-johnydeev-black?style=flat-square&logo=github&logoColor=white)](https://github.com/johnydeev)
 
 📧 castrojonathand@gmail.com
