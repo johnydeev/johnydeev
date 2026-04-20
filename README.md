@@ -1,34 +1,30 @@
-# 👨‍💻 Jonathan Castro | Full Stack Developer · IA Automation
+# 👨‍💻 Jonathan Castro | Full Stack Developer
 
-Full Stack Developer enfocado en construir productos escalables y automatizaciones inteligentes.
+**Full Stack Developer con 3+ años de experiencia** construyendo aplicaciones web escalables y automatizaciones inteligentes.  
+Desarrollo end-to-end — desde el relevamiento con el cliente hasta el despliegue en producción — aplicando Clean Architecture y principios SOLID.
 
-Diseño y desarrollo aplicaciones end-to-end con especial atención en:
-- Arquitectura limpia y mantenible
-- APIs robustas y tipadas
-- Integración con servicios externos
-- Automatización con Inteligencia Artificial
+> 🏆 Reduje tiempos operativos hasta un **50%** integrando automatizaciones con IA en flujos administrativos reales.
 
-📍 Argentina  
-💡 Building scalable systems and intelligent automations.
+📍 Buenos Aires, Argentina · Disponible para trabajo remoto  
+📧 castrojonathand@gmail.com
 
 ---
 
 ## 🚀 Enfoque Profesional
 
-Actualmente combino desarrollo Full Stack con automatización basada en IA para optimizar procesos de negocio.
+Combino desarrollo Full Stack con automatización basada en IA para resolver problemas reales de negocio.
 
 Trabajo bajo principios de:
 - Separación por capas (Controller · Service · Repository)
 - Tipado fuerte con TypeScript
 - Manejo centralizado de errores
-- Código reutilizable y escalable
-- Pensado para producción, no solo para demo
+- Código reutilizable, mantenible y pensado para producción
 
 Me interesa especialmente:
-- Automatización documental
-- Integraciones con APIs externas
-- Procesamiento de datos
-- Optimización de flujos operativos
+- Automatización documental e integración con IA
+- Procesamiento y extracción de datos desde documentos (OCR, PDFs)
+- Integración con APIs externas y servicios de terceros
+- Optimización de flujos operativos en contextos reales de negocio
 
 ---
 
@@ -39,6 +35,7 @@ Me interesa especialmente:
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-teal?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-purple?style=flat-square&logo=vite&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
@@ -50,64 +47,81 @@ Me interesa especialmente:
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-orange?style=flat-square&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
 ## 🛠️ Proyectos Destacados
 
-### 🤖 Automatización Inteligente de Facturas
+### 🤖 [drive-doc-processor](https://github.com/johnydeev/ia-drive-doc-processor) · SaaS Personal · En desarrollo activo
 
-Sistema que:
+Sistema multi-tenant de procesamiento automatizado de facturas con OCR e IA.
 
-- Detecta documentos en Google Drive
-- Aplica OCR para extraer texto
-- Utiliza IA para estructurar datos relevantes
-- Exporta automáticamente la información a Google Sheets
-- Reduce errores como pagos duplicados o facturas traspapeladas
+- Extrae texto desde PDFs con formato AFIP usando Tesseract OCR (pdftoppm + rasterización)
+- Aplica IA para estructurar los datos relevantes y normalizarlos
+- Arquitectura multi-tenant con aislamiento por cliente
+- Exporta la información procesada a base de datos relacional (PostgreSQL)
+- Reduce errores operativos como pagos duplicados o facturas traspapeladas
 
-Enfoque: automatización real de procesos administrativos.
+`Node.js` `TypeScript` `PostgreSQL` `Docker` `Tesseract OCR` `IA`
 
 ---
 
-### 🛒 E-commerce Escalable (Arquitectura Modular)
+### 🛒 [e-commerce-monorepo](https://github.com/johnydeev/e-commerce-monorepo) · Plataforma Full Stack Modular
 
-Plataforma full stack diseñada bajo arquitectura MVC con separación clara por capas.
+Plataforma e-commerce diseñada con arquitectura MVC y separación clara por capas, preparada para escalar a SaaS.
 
-- Backend en Node.js + TypeScript
-- Prisma ORM + PostgreSQL
+- Backend en Node.js + TypeScript con separación Controller · Service · Repository
+- Prisma ORM + PostgreSQL para modelado de datos con type-safety
 - Integración con Mercado Pago
-- Manejo de variantes de producto
-- Diseño preparado para escalar
-- Estructura lista para SaaS
+- Manejo de variantes de producto y catálogo dinámico
+- Estructura modular lista para agregar tenants o nuevos módulos
+
+`Node.js` `TypeScript` `React` `PostgreSQL` `Prisma` `Mercado Pago`
 
 ---
 
-### 💬 Slack Clone (Full Stack)
+### 📣 [Marketin-GO](https://github.com/johnydeev/landing-page-marketingo) · Proyecto Freelance Real
 
-Aplicación de comunicacion en tiempo real:
+Desarrollo end-to-end de landing page con backend integrado para captación de leads.
 
-- Autenticación JWT
-- Encriptación con bcrypt
+- Formulario de contacto con automatización de notificaciones
+- Optimización de SEO técnico (meta tags, performance, estructura semántica)
+- Desplegado en producción en Vercel
+
+`Node.js` `Express` `TypeScript` `Vercel`
+
+---
+
+### 💬 [CLON_SLACK](https://github.com/johnydeev/CLON_SLACK_FRONTEND) · Aplicación en Tiempo Real
+
+Aplicación de comunicación en tiempo real con arquitectura cliente-servidor desacoplada.
+
+- Autenticación con JWT y encriptación con bcrypt
+- Canales y mensajería en tiempo real
 - Sistema de notificaciones
-- Arquitectura cliente-servidor desacoplada
+- Separación clara entre frontend y backend
+
+`JavaScript` `Node.js` `JWT` `bcrypt`
 
 ---
 
 ## 🎓 Formación
 
-- Diplomatura en Desarrollo Web Full Stack – UTN (2025)
-- Professional Developer – Digital House (2023)
-- Técnico Superior en Programación – UTN Avellaneda (hasta 2° año)
+- 📘 **Diplomatura en Desarrollo Web Full Stack** · UTN Facultad Regional Buenos Aires · 2025
+- 📗 **Professional Developer** · Digital House · 2023
+- 📙 Técnico Superior en Programación · UTN Avellaneda (hasta 2° año)
 
 ---
 
 ## 📈 Actualmente
 
-- Profundizando en arquitectura escalable
-- Mejorando automatizaciones con IA
-- Aplicando Docker en entornos reales
-- Construyendo soluciones orientadas a negocio
+- 🔧 Desarrollando activamente **drive-doc-processor**: procesamiento OCR + IA de facturas en formato AFIP
+- 📐 Profundizando en arquitecturas escalables y patrones de diseño aplicados a SaaS
+- 🐳 Aplicando Docker y CI/CD en flujos de trabajo reales
+- 🤝 Abierto a oportunidades remotas en startups o empresas de producto
 
 ---
 
